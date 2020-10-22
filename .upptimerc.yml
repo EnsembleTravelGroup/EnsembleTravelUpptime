@@ -13,6 +13,7 @@ notifications:
     channel: C016QTU9S9Y
 assignees:
   - topherjenkins87
+  - toddhutzulak
 status-website:
   cname: upptime.js.org
   logoUrl: https://raw.githubusercontent.com/koj-co/upptime/79d9d1c22ecf706acc51f17798d7c7dbc710ab40/assets/icon.svg
