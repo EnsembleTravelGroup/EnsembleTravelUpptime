@@ -6,8 +6,6 @@ sites:
     url: https://www.ensembletravel.com
   - name: Atlas
     url: https://agent.ensembletravel.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
 notifications:
   - type: slack
     channel: C016QTU9S9Y
