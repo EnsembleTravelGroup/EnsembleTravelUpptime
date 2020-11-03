@@ -1,4 +1,4 @@
-# [📈 Live Status](https://EnsembleTravelGroup.github.io/EnsembleTravelUpptime/): <!--live status--> **🟥 Complete outage**
+# [📈 Live Status](https://EnsembleTravelGroup.github.io/EnsembleTravelUpptime/): <!--live status--> **🟩 All systems operational**
 
 Upptime (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.
 
@@ -9,12 +9,10 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
 <!--start: status pages-->
-
-| URL                                                  | Status  | History                                                                                                                                | Response Time                                                                            | Uptime                                                                                                                                                                                          |
-| ---------------------------------------------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [EnsembleTravel.com](https://www.ensembletravel.com) | 🟥 Down | [ensemble-travel-com.yml](https://github.com/EnsembleTravelGroup/EnsembleTravelUpptime/commits/master/history/ensemble-travel-com.yml) | <img alt="Response time graph" src="./graphs/ensemble-travel-com.png" height="20"> 828ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEnsembleTravelGroup%2FEnsembleTravelUpptime%2Fmaster%2Fapi%2Fensemble-travel-com%2Fuptime.json) |
-| [Atlas](https://agent.ensembletravel.com)            | 🟥 Down | [atlas.yml](https://github.com/EnsembleTravelGroup/EnsembleTravelUpptime/commits/master/history/atlas.yml)                             | <img alt="Response time graph" src="./graphs/atlas.png" height="20"> 873ms               | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEnsembleTravelGroup%2FEnsembleTravelUpptime%2Fmaster%2Fapi%2Fatlas%2Fuptime.json)               |
-
+| URL | Status | History | Response Time | Uptime |
+| --- | ------ | ------- | ------------- | ------ |
+| [EnsembleTravel.com](https://www.ensembletravel.com) | 🟩 Up | [ensemble-travel-com.yml](https://github.com/EnsembleTravelGroup/EnsembleTravelUpptime/commits/master/history/ensemble-travel-com.yml) | <img alt="Response time graph" src="./graphs/ensemble-travel-com.png" height="20"> 829ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEnsembleTravelGroup%2FEnsembleTravelUpptime%2Fmaster%2Fapi%2Fensemble-travel-com%2Fuptime.json)
+| [Atlas](https://agent.ensembletravel.com) | 🟩 Up | [atlas.yml](https://github.com/EnsembleTravelGroup/EnsembleTravelUpptime/commits/master/history/atlas.yml) | <img alt="Response time graph" src="./graphs/atlas.png" height="20"> 853ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEnsembleTravelGroup%2FEnsembleTravelUpptime%2Fmaster%2Fapi%2Fatlas%2Fuptime.json)
 <!--end: status pages-->
 
 ## ⭐ How it works
