@@ -11,8 +11,8 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [EnsembleTravel.com](https://www.ensembletravel.com) | 🟩 Up | [ensemble-travel-com.yml](https://github.com/EnsembleTravelGroup/EnsembleTravelUpptime/commits/master/history/ensemble-travel-com.yml) | <img alt="Response time graph" src="./graphs/ensemble-travel-com.png" height="20"> 829ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEnsembleTravelGroup%2FEnsembleTravelUpptime%2Fmaster%2Fapi%2Fensemble-travel-com%2Fuptime.json)
-| [Atlas](https://agent.ensembletravel.com) | 🟩 Up | [atlas.yml](https://github.com/EnsembleTravelGroup/EnsembleTravelUpptime/commits/master/history/atlas.yml) | <img alt="Response time graph" src="./graphs/atlas.png" height="20"> 853ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEnsembleTravelGroup%2FEnsembleTravelUpptime%2Fmaster%2Fapi%2Fatlas%2Fuptime.json)
+| [EnsembleTravel.com](https://www.ensembletravel.com) | 🟩 Up | [ensemble-travel-com.yml](https://github.com/EnsembleTravelGroup/EnsembleTravelUpptime/commits/master/history/ensemble-travel-com.yml) | <img alt="Response time graph" src="./graphs/ensemble-travel-com.png" height="20"> 823ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEnsembleTravelGroup%2FEnsembleTravelUpptime%2Fmaster%2Fapi%2Fensemble-travel-com%2Fuptime.json)
+| [Atlas](https://agent.ensembletravel.com) | 🟩 Up | [atlas.yml](https://github.com/EnsembleTravelGroup/EnsembleTravelUpptime/commits/master/history/atlas.yml) | <img alt="Response time graph" src="./graphs/atlas.png" height="20"> 823ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEnsembleTravelGroup%2FEnsembleTravelUpptime%2Fmaster%2Fapi%2Fatlas%2Fuptime.json)
 <!--end: status pages-->
 
 ## ⭐ How it works
