@@ -17,3 +17,4 @@ status-website:
   name: "Ensemble Travel Group - Status Page"
   introTitle: "**Ensemble Travel Group** web services status monitoring."
   introMessage: "The ETG status page uses **real-time** data to monitor our web services."
+  cname: status.ensembletravel.com
