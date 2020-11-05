@@ -1,6 +1,6 @@
 owner: EnsembleTravelGroup
 repo: EnsembleTravelUpptime
-user-agent: EnsembleTravelGroup
+user-agent: topherjenkins87
 sites:
   - name: EnsembleTravel.com
     url: https://www.ensembletravel.com
