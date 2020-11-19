@@ -1,7 +1,7 @@
 - url: https://agent.ensembletravel.com
-- status: down
+- status: up
 - code: 200
-- responseTime: 359
-- lastUpdated: 2020-11-19T06:47:52.730Z
+- responseTime: 429
+- lastUpdated: 2020-11-19T06:54:25.823Z
 - startTime: 2020-10-22T15:29:35.099Z
 - generator: Upptime <https://github.com/upptime/upptime>
