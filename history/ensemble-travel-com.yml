@@ -1,7 +1,7 @@
 - url: https://www.ensembletravel.com
-- status: up
+- status: down
 - code: 200
-- responseTime: 548
-- lastUpdated: 2020-11-18T23:16:43.225Z
+- responseTime: 788
+- lastUpdated: 2020-11-19T06:47:50.055Z
 - startTime: 2020-10-22T15:29:32.141Z
 - generator: Upptime <https://github.com/upptime/upptime>
