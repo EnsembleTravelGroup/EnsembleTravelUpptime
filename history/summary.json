@@ -4,15 +4,15 @@
     "url": "https://www.ensembletravel.com",
     "slug": "ensemble-travel-com",
     "status": "up",
-    "uptime": "100.00",
-    "time": 859
+    "uptime": "99.99%",
+    "time": 861
   },
   {
     "name": "Atlas",
     "url": "https://agent.ensembletravel.com",
     "slug": "atlas",
     "status": "up",
-    "uptime": "100.00",
-    "time": 642
+    "uptime": "99.99%",
+    "time": 636
   }
 ]
