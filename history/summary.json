@@ -4,9 +4,9 @@
     "url": "https://www.ensembletravel.com",
     "icon": "https://favicons.githubusercontent.com/www.ensembletravel.com",
     "slug": "ensemble-travel-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 743,
     "timeYear": 830,
     "dailyMinutesDown": {
+      "2020-12-18": 0,
       "2020-11-19": 7
     }
   },
