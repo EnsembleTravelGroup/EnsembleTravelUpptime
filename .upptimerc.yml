@@ -4,6 +4,8 @@ user-agent: topherjenkins87
 sites:
   - name: EnsembleTravel.com
     url: https://www.ensembletravel.com
+  - name: EnsembleTravel.ca
+    url: https://www.ensembletravel.ca
   - name: Atlas
     url: https://agent.ensembletravel.com
 assignees:
