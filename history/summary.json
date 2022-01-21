@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/www.ensembletravel.com",
     "slug": "ensemble-travel-com",
     "status": "up",
-    "uptime": "96.53%",
+    "uptime": "96.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "86.78%",
     "uptimeMonth": "96.96%",
     "uptimeYear": "95.74%",
-    "time": 1263,
-    "timeDay": 859,
-    "timeWeek": 9236,
-    "timeMonth": 5116,
+    "time": 1258,
+    "timeDay": 516,
+    "timeWeek": 9196,
+    "timeMonth": 5117,
     "timeYear": 1382,
     "dailyMinutesDown": {
       "2022-01-15": 798,
@@ -45,8 +45,7 @@
       "2021-02-05": 44,
       "2021-02-04": 45,
       "2021-02-03": 61,
-      "2021-01-23": 64,
-      "2021-01-21": 151
+      "2021-01-23": 64
     }
   },
   {
@@ -55,15 +54,15 @@
     "icon": "https://favicons.githubusercontent.com/www.ensembletravel.ca",
     "slug": "ensemble-travel-ca",
     "status": "up",
-    "uptime": "95.89%",
+    "uptime": "95.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.02%",
     "uptimeMonth": "97.01%",
     "uptimeYear": "95.75%",
-    "time": 1506,
-    "timeDay": 904,
-    "timeWeek": 9448,
-    "timeMonth": 5314,
+    "time": 1497,
+    "timeDay": 478,
+    "timeWeek": 9402,
+    "timeMonth": 5312,
     "timeYear": 1531,
     "dailyMinutesDown": {
       "2022-01-15": 806,
@@ -94,8 +93,7 @@
       "2021-02-05": 44,
       "2021-02-04": 41,
       "2021-02-03": 59,
-      "2021-01-23": 64,
-      "2021-01-21": 151
+      "2021-01-23": 64
     }
   },
   {
@@ -105,17 +103,16 @@
     "slug": "atlas",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1629,
-    "timeDay": 1020,
-    "timeWeek": 1671,
-    "timeMonth": 1138,
-    "timeYear": 1884,
+    "time": 1640,
+    "timeDay": 1626,
+    "timeWeek": 1712,
+    "timeMonth": 1209,
+    "timeYear": 1897,
     "dailyMinutesDown": {
-      "2022-01-17": 5,
       "2021-08-08": 20,
       "2021-07-04": 16,
       "2021-02-25": 5
