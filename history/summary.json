@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/www.ensembletravel.com",
     "slug": "ensemble-travel-com",
     "status": "up",
-    "uptime": "96.77%",
+    "uptime": "96.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.86%",
     "time": 1224,
-    "timeDay": 733,
-    "timeWeek": 621,
-    "timeMonth": 696,
+    "timeDay": 951,
+    "timeWeek": 669,
+    "timeMonth": 694,
     "timeYear": 1383,
     "dailyMinutesDown": {
       "2022-01-21": 150,
@@ -38,8 +38,7 @@
       "2021-09-04": 23,
       "2021-08-28": 23,
       "2021-06-09": 17,
-      "2021-02-28": 28,
-      "2021-02-24": 20
+      "2021-02-28": 28
     }
   },
   {
@@ -48,15 +47,15 @@
     "icon": "https://favicons.githubusercontent.com/www.ensembletravel.ca",
     "slug": "ensemble-travel-ca",
     "status": "up",
-    "uptime": "96.25%",
+    "uptime": "96.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.89%",
-    "time": 1436,
-    "timeDay": 689,
-    "timeWeek": 630,
-    "timeMonth": 708,
+    "uptimeYear": "95.90%",
+    "time": 1433,
+    "timeDay": 853,
+    "timeWeek": 643,
+    "timeMonth": 700,
     "timeYear": 1536,
     "dailyMinutesDown": {
       "2022-01-15": 806,
@@ -79,8 +78,7 @@
       "2021-09-04": 22,
       "2021-08-28": 22,
       "2021-06-09": 17,
-      "2021-02-28": 27,
-      "2021-02-24": 19
+      "2021-02-28": 27
     }
   },
   {
@@ -94,15 +92,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1737,
-    "timeDay": 2570,
-    "timeWeek": 2078,
-    "timeMonth": 2076,
-    "timeYear": 2014,
+    "time": 1744,
+    "timeDay": 2142,
+    "timeWeek": 1999,
+    "timeMonth": 2082,
+    "timeYear": 2020,
     "dailyMinutesDown": {
       "2021-08-08": 20,
-      "2021-07-04": 16,
-      "2021-02-25": 5
+      "2021-07-04": 16
     }
   }
 ]
