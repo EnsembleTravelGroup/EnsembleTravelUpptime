@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ensembletravel.com.ico",
     "slug": "ensemble-travel-com",
     "status": "up",
-    "uptime": "96.06%",
+    "uptime": "96.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "92.42%",
-    "time": 1182,
-    "timeDay": 640,
-    "timeWeek": 718,
-    "timeMonth": 743,
-    "timeYear": 1321,
+    "uptimeYear": "92.70%",
+    "time": 1181,
+    "timeDay": 503,
+    "timeWeek": 667,
+    "timeMonth": 735,
+    "timeYear": 1319,
     "dailyMinutesDown": {
       "2022-11-10": 20,
       "2022-08-19": 101,
@@ -47,8 +47,7 @@
       "2021-11-26": 1440,
       "2021-11-25": 1440,
       "2021-11-24": 1440,
-      "2021-11-23": 1440,
-      "2021-11-22": 1440
+      "2021-11-23": 1440
     }
   },
   {
@@ -57,16 +56,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ensembletravel.ca.ico",
     "slug": "ensemble-travel-ca",
     "status": "up",
-    "uptime": "95.44%",
+    "uptime": "95.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "92.02%",
-    "time": 1292,
-    "timeDay": 1268,
-    "timeWeek": 771,
-    "timeMonth": 768,
-    "timeYear": 1347,
+    "uptimeYear": "92.30%",
+    "time": 1291,
+    "timeDay": 561,
+    "timeWeek": 747,
+    "timeMonth": 762,
+    "timeYear": 1345,
     "dailyMinutesDown": {
       "2022-11-10": 19,
       "2022-08-19": 100,
@@ -100,8 +99,7 @@
       "2021-11-26": 1440,
       "2021-11-25": 1440,
       "2021-11-24": 1440,
-      "2021-11-23": 1440,
-      "2021-11-22": 1440
+      "2021-11-23": 1440
     }
   },
   {
@@ -115,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 1950,
-    "timeDay": 2000,
-    "timeWeek": 2782,
-    "timeMonth": 2529,
-    "timeYear": 1796,
+    "time": 1952,
+    "timeDay": 2928,
+    "timeWeek": 2759,
+    "timeMonth": 2590,
+    "timeYear": 1800,
     "dailyMinutesDown": {
       "2022-04-22": 898,
       "2022-04-21": 355
