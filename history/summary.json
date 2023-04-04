@@ -5,18 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ensembletravel.com.ico",
     "slug": "ensemble-travel-com",
     "status": "down",
-    "uptime": "83.86%",
+    "uptime": "83.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "67.73%",
-    "time": 1373,
+    "time": 1374,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 854,
     "dailyMinutesDown": {
-      "2023-04-02": 5,
+      "2023-04-04": 5,
+      "2023-04-03": 1440,
+      "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
@@ -135,9 +137,7 @@
       "2022-11-10": 20,
       "2022-08-19": 101,
       "2022-04-27": 23,
-      "2022-04-05": 1063,
-      "2022-04-04": 1440,
-      "2022-04-03": 1440
+      "2022-04-05": 1063
     }
   },
   {
@@ -146,18 +146,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ensembletravel.ca.ico",
     "slug": "ensemble-travel-ca",
     "status": "down",
-    "uptime": "82.22%",
+    "uptime": "82.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "67.69%",
-    "time": 1284,
+    "time": 1271,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 895,
     "dailyMinutesDown": {
-      "2023-04-02": 5,
+      "2023-04-04": 5,
+      "2023-04-03": 1440,
+      "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
@@ -276,9 +278,7 @@
       "2022-11-10": 19,
       "2022-08-19": 100,
       "2022-04-27": 22,
-      "2022-04-05": 1242,
-      "2022-04-04": 1440,
-      "2022-04-03": 1440
+      "2022-04-05": 1242
     }
   },
   {
@@ -292,11 +292,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 2038,
-    "timeDay": 1387,
-    "timeWeek": 1875,
-    "timeMonth": 2140,
-    "timeYear": 2136,
+    "time": 2039,
+    "timeDay": 2322,
+    "timeWeek": 1969,
+    "timeMonth": 2120,
+    "timeYear": 2137,
     "dailyMinutesDown": {
       "2022-04-22": 898,
       "2022-04-21": 355
