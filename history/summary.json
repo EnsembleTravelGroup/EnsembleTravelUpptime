@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 883,
     "dailyMinutesDown": {
-      "2023-05-21": 408,
+      "2023-05-21": 413,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
@@ -202,7 +202,7 @@
     "timeMonth": 0,
     "timeYear": 928,
     "dailyMinutesDown": {
-      "2023-05-21": 408,
+      "2023-05-21": 413,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
@@ -376,19 +376,19 @@
     "url": "https://agent.ensembletravel.com",
     "icon": "https://icons.duckduckgo.com/ip3/agent.ensembletravel.com.ico",
     "slug": "atlas",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2031,
-    "timeDay": 515,
-    "timeWeek": 658,
-    "timeMonth": 802,
-    "timeYear": 1974,
+    "time": 2028,
+    "timeDay": 672,
+    "timeWeek": 680,
+    "timeMonth": 803,
+    "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-05-21": 0
+      "2023-05-21": 6
     }
   }
 ]
