@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ensembletravel.com.ico",
     "slug": "ensemble-travel-com",
     "status": "down",
-    "uptime": "65.55%",
+    "uptime": "65.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.56%",
-    "time": 1009,
+    "uptimeYear": "0.28%",
+    "time": 1013,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 795,
+    "timeYear": 922,
     "dailyMinutesDown": {
-      "2023-12-07": 5,
+      "2023-12-08": 5,
+      "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
@@ -379,8 +380,7 @@
       "2022-12-12": 1440,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
-      "2022-12-09": 1182,
-      "2022-12-08": 195
+      "2022-12-09": 1182
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ensembletravel.ca.ico",
     "slug": "ensemble-travel-ca",
     "status": "down",
-    "uptime": "62.99%",
+    "uptime": "62.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.56%",
-    "time": 1065,
+    "uptimeYear": "0.29%",
+    "time": 1070,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 806,
+    "timeYear": 936,
     "dailyMinutesDown": {
-      "2023-12-07": 5,
+      "2023-12-08": 5,
+      "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
@@ -763,8 +764,7 @@
       "2022-12-12": 1440,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
-      "2022-12-09": 1181,
-      "2022-12-08": 195
+      "2022-12-09": 1181
     }
   },
   {
@@ -778,11 +778,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1599,
-    "timeDay": 461,
-    "timeWeek": 597,
-    "timeMonth": 609,
-    "timeYear": 1379,
+    "time": 1598,
+    "timeDay": 481,
+    "timeWeek": 573,
+    "timeMonth": 601,
+    "timeYear": 1373,
     "dailyMinutesDown": {
       "2023-05-25": 691,
       "2023-05-24": 69
