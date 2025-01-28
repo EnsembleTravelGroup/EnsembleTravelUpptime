@@ -316,7 +316,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-28": 1369,
+      "2025-01-28": 1376,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -688,19 +688,19 @@
     "url": "https://agent.ensembletravel.com",
     "icon": "https://icons.duckduckgo.com/ip3/agent.ensembletravel.com.ico",
     "slug": "atlas",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 570,
-    "timeDay": 731,
-    "timeWeek": 544,
-    "timeMonth": 482,
-    "timeYear": 560,
+    "time": 569,
+    "timeDay": 668,
+    "timeWeek": 552,
+    "timeMonth": 486,
+    "timeYear": 561,
     "dailyMinutesDown": {
-      "2025-01-28": 0
+      "2025-01-28": 6
     }
   }
 ]
