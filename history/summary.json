@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ensembletravel.com.ico",
     "slug": "ensemble-travel-com",
     "status": "up",
-    "uptime": "57.18%",
+    "uptime": "57.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.43%",
+    "uptimeYear": "61.65%",
     "time": 266,
     "timeDay": 156,
     "timeWeek": 235,
@@ -164,7 +164,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ensembletravel.ca.ico",
     "slug": "ensemble-travel-ca",
     "status": "down",
-    "uptime": "41.31%",
+    "uptime": "41.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -175,7 +175,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-18": 8,
+      "2025-06-18": 1174,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
@@ -547,17 +547,19 @@
     "url": "https://agent.ensembletravel.com",
     "icon": "https://icons.duckduckgo.com/ip3/agent.ensembletravel.com.ico",
     "slug": "atlas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 525,
-    "timeDay": 391,
-    "timeWeek": 399,
-    "timeMonth": 410,
-    "timeYear": 512,
-    "dailyMinutesDown": {}
+    "timeDay": 538,
+    "timeWeek": 435,
+    "timeMonth": 419,
+    "timeYear": 513,
+    "dailyMinutesDown": {
+      "2025-06-18": 0
+    }
   }
 ]
