@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ensembletravel.com.ico",
     "slug": "ensemble-travel-com",
     "status": "up",
-    "uptime": "57.26%",
+    "uptime": "57.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "62.25%",
-    "time": 266,
-    "timeDay": 273,
+    "uptimeYear": "62.52%",
+    "time": 267,
+    "timeDay": 321,
     "timeWeek": 225,
-    "timeMonth": 259,
-    "timeYear": 266,
+    "timeMonth": 257,
+    "timeYear": 267,
     "dailyMinutesDown": {
       "2024-11-05": 1158,
       "2024-11-04": 1440,
@@ -151,8 +151,7 @@
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
-      "2024-06-23": 1440,
-      "2024-06-22": 1440
+      "2024-06-23": 1440
     }
   },
   {
@@ -161,7 +160,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ensembletravel.ca.ico",
     "slug": "ensemble-travel-ca",
     "status": "down",
-    "uptime": "41.24%",
+    "uptime": "41.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -172,7 +171,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-21": 8,
+      "2025-06-22": 9,
+      "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
@@ -535,8 +535,7 @@
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
-      "2024-06-23": 1440,
-      "2024-06-22": 1440
+      "2024-06-23": 1440
     }
   },
   {
@@ -545,18 +544,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/agent.ensembletravel.com.ico",
     "slug": "atlas",
     "status": "down",
-    "uptime": "99.79%",
+    "uptime": "99.73%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "68.71%",
-    "uptimeMonth": "92.80%",
-    "uptimeYear": "99.40%",
+    "uptimeWeek": "54.41%",
+    "uptimeMonth": "89.51%",
+    "uptimeYear": "99.13%",
     "time": 524,
-    "timeDay": 431,
-    "timeWeek": 436,
-    "timeMonth": 424,
+    "timeDay": 338,
+    "timeWeek": 434,
+    "timeMonth": 421,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2025-06-21": 8,
+      "2025-06-22": 9,
+      "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 266
