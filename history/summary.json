@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ensembletravel.com.ico",
     "slug": "ensemble-travel-com",
     "status": "up",
-    "uptime": "57.54%",
+    "uptime": "57.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.41%",
+    "uptimeYear": "65.53%",
     "time": 265,
-    "timeDay": 383,
-    "timeWeek": 234,
-    "timeMonth": 250,
+    "timeDay": 249,
+    "timeWeek": 249,
+    "timeMonth": 249,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2024-11-05": 1158,
@@ -140,8 +140,7 @@
       "2024-07-07": 1440,
       "2024-07-06": 1440,
       "2024-07-05": 1440,
-      "2024-07-04": 1440,
-      "2024-07-03": 1440
+      "2024-07-04": 1440
     }
   },
   {
@@ -150,7 +149,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ensembletravel.ca.ico",
     "slug": "ensemble-travel-ca",
     "status": "down",
-    "uptime": "40.94%",
+    "uptime": "40.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -161,7 +160,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-02": 819,
+      "2025-07-03": 8,
+      "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
@@ -524,8 +524,7 @@
       "2024-07-07": 1440,
       "2024-07-06": 1440,
       "2024-07-05": 1440,
-      "2024-07-04": 1440,
-      "2024-07-03": 1440
+      "2024-07-04": 1440
     }
   },
   {
@@ -535,15 +534,15 @@
     "slug": "atlas",
     "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.00%",
+    "uptimeDay": "43.73%",
+    "uptimeWeek": "6.25%",
     "uptimeMonth": "54.79%",
     "uptimeYear": "96.23%",
-    "time": 523,
-    "timeDay": 569,
-    "timeWeek": 499,
-    "timeMonth": 444,
-    "timeYear": 509,
+    "time": 522,
+    "timeDay": 409,
+    "timeWeek": 474,
+    "timeMonth": 438,
+    "timeYear": 508,
     "dailyMinutesDown": {
       "2025-07-02": 819,
       "2025-07-01": 1440,
