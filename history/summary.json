@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ensembletravel.com.ico",
     "slug": "ensemble-travel-com",
     "status": "up",
-    "uptime": "57.56%",
+    "uptime": "57.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.53%",
-    "time": 265,
-    "timeDay": 249,
-    "timeWeek": 249,
-    "timeMonth": 249,
-    "timeYear": 265,
+    "uptimeYear": "65.81%",
+    "time": 264,
+    "timeDay": 198,
+    "timeWeek": 235,
+    "timeMonth": 246,
+    "timeYear": 264,
     "dailyMinutesDown": {
       "2024-11-05": 1158,
       "2024-11-04": 1440,
@@ -139,8 +139,7 @@
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
-      "2024-07-05": 1440,
-      "2024-07-04": 1440
+      "2024-07-05": 1440
     }
   },
   {
@@ -149,7 +148,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ensembletravel.ca.ico",
     "slug": "ensemble-travel-ca",
     "status": "down",
-    "uptime": "40.93%",
+    "uptime": "40.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -160,7 +159,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-03": 8,
+      "2025-07-04": 8,
+      "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
@@ -523,8 +523,7 @@
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
-      "2024-07-05": 1440,
-      "2024-07-04": 1440
+      "2024-07-05": 1440
     }
   },
   {
@@ -534,14 +533,14 @@
     "slug": "atlas",
     "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "43.73%",
-    "uptimeWeek": "6.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "20.53%",
     "uptimeMonth": "54.79%",
     "uptimeYear": "96.23%",
     "time": 522,
-    "timeDay": 409,
-    "timeWeek": 474,
-    "timeMonth": 438,
+    "timeDay": 324,
+    "timeWeek": 454,
+    "timeMonth": 433,
     "timeYear": 508,
     "dailyMinutesDown": {
       "2025-07-02": 819,
