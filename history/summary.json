@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ensembletravel.com.ico",
     "slug": "ensemble-travel-com",
     "status": "up",
-    "uptime": "59.01%",
+    "uptime": "59.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.25%",
+    "uptimeYear": "82.52%",
     "time": 268,
-    "timeDay": 274,
-    "timeWeek": 263,
-    "timeMonth": 290,
+    "timeDay": 410,
+    "timeWeek": 290,
+    "timeMonth": 293,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2024-11-05": 1158,
@@ -78,8 +78,7 @@
       "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
-      "2024-09-04": 1440,
-      "2024-09-03": 1440
+      "2024-09-04": 1440
     }
   },
   {
@@ -88,7 +87,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ensembletravel.ca.ico",
     "slug": "ensemble-travel-ca",
     "status": "down",
-    "uptime": "39.47%",
+    "uptime": "39.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -99,7 +98,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-02": 8,
+      "2025-09-03": 7,
+      "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
@@ -462,8 +462,7 @@
       "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
-      "2024-09-04": 1440,
-      "2024-09-03": 1440
+      "2024-09-04": 1440
     }
   },
   {
@@ -472,16 +471,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/agent.ensembletravel.com.ico",
     "slug": "atlas",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.23%",
-    "time": 511,
-    "timeDay": 381,
-    "timeWeek": 391,
-    "timeMonth": 429,
-    "timeYear": 488,
+    "time": 510,
+    "timeDay": 324,
+    "timeWeek": 370,
+    "timeMonth": 425,
+    "timeYear": 486,
     "dailyMinutesDown": {
       "2025-07-02": 819,
       "2025-07-01": 1440,
