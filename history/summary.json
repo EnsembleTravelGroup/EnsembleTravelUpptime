@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ensembletravel.com.ico",
     "slug": "ensemble-travel-com",
     "status": "up",
-    "uptime": "59.33%",
+    "uptime": "59.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.08%",
-    "time": 271,
-    "timeDay": 295,
-    "timeWeek": 325,
-    "timeMonth": 305,
-    "timeYear": 271,
+    "uptimeYear": "86.36%",
+    "time": 270,
+    "timeDay": 209,
+    "timeWeek": 329,
+    "timeMonth": 299,
+    "timeYear": 270,
     "dailyMinutesDown": {
       "2024-11-05": 1158,
       "2024-11-04": 1440,
@@ -64,8 +64,7 @@
       "2024-09-21": 1440,
       "2024-09-20": 1440,
       "2024-09-19": 1440,
-      "2024-09-18": 1440,
-      "2024-09-17": 1440
+      "2024-09-18": 1440
     }
   },
   {
@@ -74,7 +73,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ensembletravel.ca.ico",
     "slug": "ensemble-travel-ca",
     "status": "down",
-    "uptime": "39.14%",
+    "uptime": "39.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -85,7 +84,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-16": 7,
+      "2025-09-17": 7,
+      "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
@@ -448,8 +448,7 @@
       "2024-09-21": 1440,
       "2024-09-20": 1440,
       "2024-09-19": 1440,
-      "2024-09-18": 1440,
-      "2024-09-17": 1440
+      "2024-09-18": 1440
     }
   },
   {
@@ -464,10 +463,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.23%",
     "time": 508,
-    "timeDay": 689,
-    "timeWeek": 530,
-    "timeMonth": 476,
-    "timeYear": 486,
+    "timeDay": 479,
+    "timeWeek": 531,
+    "timeMonth": 473,
+    "timeYear": 485,
     "dailyMinutesDown": {
       "2025-07-02": 819,
       "2025-07-01": 1440,
